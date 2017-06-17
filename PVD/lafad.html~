@@ -1,0 +1,136 @@
+<html lang="en">
+    <head>
+        <!-- Remove for deployment -->
+        <base href="file:///home/elliot/website/">
+        
+        <!-- Bootstrap -->
+        <meta charset="utf-8">    
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+        <!-- My stuff -->
+        <link rel="stylesheet" href="css/styles.css">  
+    </head>
+
+    <body>
+        <div id="page-wrapper" style="padding-left:11%; padding-right:11%;">
+            <div class="container-fluid" style="box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.5);">
+                <div class="row" style="margin-bottom:-20px;">
+                    <img src="images/banner.jpg" style="width:100%;">
+                </div>`
+                <div class="row">
+                    <div class="col-sm-3 text-left">
+                        <img src="logo.png" alt="Nano-Product Engineering, LLC"
+                             style="margin-top:10px; margin-bottom:10px">
+                    </div>
+                    <div class="col text-right">
+                        <div class="tagline">
+                            Advanced Technology for PVD and PACVD Coatings
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <nav class="navbar navbar-default">
+                        <div class="container">
+                            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                <ul class="nav navbar-nav" style="margin: 0 -30px;">
+                                    <li class="active"><a href="index.html">Home</a></li>
+                                    
+                                    <li class="dropdown">
+                                        <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                                            PVD
+                                            <span class="caret"></span>
+                                        </a>
+
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li><a href="PVD/lafad.html">Large-Area Filtered Arc Deposition (LAFAD™)</a></li>
+                                            <li><a href="PVD/faams.html">Filtered-Arc Assisted Magnetron Sputtering (FAAMS™)</a></li>
+                                            <li class="divider"></li>
+                                            <li class="dropdown-header">PVD Equipment</li>
+                                            <li><a href="PVD/equipment/dcad.html">Direct Cathodic-Arc Deposition (DCAD) Sources</a></li>
+                                            <li><a href="PVD/equipment/lafad-sources.html">LAFAD™ sources</a></li>
+                                            <li><a href="PVD/equipment/lafad-systems.html">LAFAD™ coating systems</a></li>
+                                            <li><a href="PVD/equipment/faams.html">FAAMS™ coating systems</a></li>
+                                        </ul>
+                                    </li>
+
+                                    <li> 
+                                        <a href="pacvd.html" >
+                                            PACVD
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>          
+                    </nav>
+                </div>
+
+                <div class="container">
+
+
+<div class="col-sm-12">
+<p class="text-justify">
+  NPE’s unidirectional large-area dual filtered arc deposition (LAFAD™) surface engineering metal vapor plasma sources
+
+  use a rectangular plasma duct chamber with two rectangular coils installed in opposite sides, as schematically illustrated
+  <span class="active-word-parent">
+    here.
+    <img class="active-word-child" src="PVD/lafad-1.png">
+  </span>
+  Two cathodic arc sources
+
+  with rectangular or circular (billet) targets are installed in the side walls of the plasma duct chamber, surrounded by rectangular focusing and deflecting coils.
+
+  A quasi-flat deflecting magnetic field configuration significantly reduces plasma losses in the direction close to the plasma duct walls, allowing for the dual metal vapor plasma jets to propagate freely along the magnetic field lines to reach remote parts of the deposition chamber as illustrated
+  <span class="active-word-parent">
+    here.
+    <video autoplay loop class="active-word-child">
+      <source src="PVD/lafad-2.mp4" type="video/mp4">
+    </video>
+  </span>
+  This results in a dramatic increase of output arc current,
+  which can exceed more than 10 amperes for an input current of 300 amperes for two incorporated cathodic arc sources. At the same time ionization rate of
+
+  gaseous plasma components within magnetized arc plasma column can reach more than 30%. As a result the deposition rate of 100% ionized metal vapor plasma generated by an LAFAD™ source has been
+
+  found to be almost the same or even greater than that of direct (not-filtered) cathodic arc source. At the same time the macroparticles and neutral atoms emitted from the cathode target are captured by the baffles installed along plasma duct walls not occupied by vapor plasma sources, as illustrated
+  <span class="active-word-parent">
+    here.
+    <video height="400px" autoplay loop class="active-word-child">
+      <source src="PVD/lafad-3.mp4" type="video/mp4">
+    </video>
+  </span>
+  This advanced filtered design provides practically macro-
+  particle free coatings in large areas, ranging from about 250 mm in width to heights on the order of 300 mm to 3 m or more. Typical target utilization rate for a
+
+  cylindrical primary cathodic arc sources of the LAFAD™ dual filtered arc source, utilizing round targets is as high as 80-90% for primary cathodic arc sources
+
+  with cylindrical (billet) targets, and up to 40% in case of using the planar or rotary primary cathodic arc sources with large rectangular or tubular targets.
+
+  In addition the vacuum arc cathode is also a theoretically unlimited electron emitter, thereby providing an efficient source of high-density electron current. In
+
+  this mode, it facilitates the generation of a uniform, high-density plasma cloud in the coating deposition chamber. This results in a "plasma-immersion"
+
+  environment, which provides a uniform condition for plasma ion etching, ion nitriding, low energy ion implantation, plasma-assisted chemical vapor deposition
+
+  and multilayer filtered arc PVD coatings in a single vacuum cycle.
+</p>
+</div>
+
+</div>
+
+<div class="row" style="height:16px; background-color:#2668b7;"></div>
+
+<div class="row">
+    <div class="col-sm-12">
+        <p class="copyright"> ©2016 Nano-Product Engineering, LLC </p>
+    </div>
+</div>
+        
+</div>
+</div>
+</body>
+</html>

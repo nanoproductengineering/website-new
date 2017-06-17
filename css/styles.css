@@ -1,0 +1,150 @@
+.affix {
+      top: 20px;
+  }
+
+.nav-pills > li.active > a {
+    color:#337ab7;
+    background-color:white;
+}
+
+/* Can always override, but a good default */
+img {
+    width: 100%;
+}
+
+/* For the blue text at the top right */
+.tagline {
+    padding-top:40px;
+    padding-right:10px;
+    color: #3399cf;
+    font-size: 15px;
+    letter-spacing: 0.9px;
+    font-style: italic;
+}
+
+/* Make the navbar skinny */
+.navbar-nav > li > a {
+    padding-top:5px !important;
+    padding-bottom:5px !important;
+    padding-left:58px !important;
+    padding-right:58px !important;
+}
+.navbar {min-height:32px !important}
+
+/* For the copyright at the bottom left */
+.copyright {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+    font-size: 10px;
+    padding-top: 10px;
+}
+
+/* Make the navbar blue */
+.dropdown-header {
+    color:bbbbbb !important;
+}
+.navbar-default {
+    background-color: #2668b7;
+    border-color: #2668b7;
+    border-radius:0px;
+    border-width:1px;
+}
+.navbar-default .navbar-brand {
+    color: #ffffff;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #ffffff;
+}
+.navbar-default .navbar-text {
+    color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #ffffff;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu {
+    background-color: #2668b7;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a {
+    color: #ffffff;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
+    color: #ffffff;
+    background-color: #1d4681;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li.divider {
+    background-color: #1d4681;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #ffffff;
+    background-color: #1d4681;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #ffffff;
+    background-color: #1d4681;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #ffffff;
+    background-color: #1d4681;
+}
+.navbar-default .navbar-toggle {
+    border-color: #1d4681;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #1d4681;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+    border-color: #ffffff;
+}
+.navbar-default .navbar-link {
+    color: #ffffff;
+}
+.navbar-default .navbar-link:hover {
+    color: #ffffff;
+}
+
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #ffffff;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #ffffff;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+        color: #ffffff;
+        background-color: #1d4681;
+    }
+}
+
+
+/* Hover words for LAFAD and FAAMS */
+.active-word-child { display:none; }
+.active-word-parent { color:red; }
+.active-word-parent:hover .active-word-child { display:block; }
+
+
+/* Make the panel headings blue */
+.panel-default > .panel-heading {
+    color: white;
+    background-color: #2668b7;
+    border-color: #2668b7;
+}
