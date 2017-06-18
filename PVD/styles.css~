@@ -1,7 +1,0 @@
-.hover-image {
-    display:none;
-}
-.active-word:hover .hover-image {
-    display:block;
-}
-    
