@@ -2,11 +2,11 @@
 <h2> PVD Sources and Systems </h2>
 <nav class="col-sm-3" id="myScrollspy">
   <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="180">
-    <li><a href="#dcad-sources"> DCAD Source</a></li>
-    <li><a href="#lafad-sources">LAFAD™ sources</a></li>
-    <li><a href="#lafad-systems">LAFAD™ coating systems</a></li>
-    <li><a href="#faams-sources">FAAMS™ sources</a></li>
-    <li><a href="#faams-systems">FAAMS™ coating systems</a></li>
+    <li><a href="PVD.html#dcad-sources"> DCAD Source</a></li>
+    <li><a href="PVD.html#lafad-sources">LAFAD™ sources</a></li>
+    <li><a href="PVD.html#lafad-systems">LAFAD™ coating systems</a></li>
+    <li><a href="PVD.html#faams-sources">FAAMS™ sources</a></li>
+    <li><a href="PVD.html#faams-systems">FAAMS™ coating systems</a></li>
   </ul>
 </nav>
 
