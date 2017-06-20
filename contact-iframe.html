@@ -5,6 +5,7 @@
 <meta name="description" content="A contact form for your own website - create your own contact form quickly and easily - with anti-spam protection and, of course, completely free!" />
 <meta name="keywords" content="TXT_kewy" /> 
 <meta name="author" content="Author" /> 
+<script src='//www.google.com/recaptcha/api.js'></script>
 <style type="text/css">
 	body {
 		zoom: 1;
@@ -36,7 +37,7 @@
 		height: 102px;
 	}
 
-	input.form, input.formsubmit, select.form, option.form, textarea.form {
+	input.form, input.formsubmit, select.form, option.form, textarea.form, input.captcha {
 		color: #000000;
 		font-size: 12px;
 		border: 1px solid #C8C8C8;
@@ -66,6 +67,12 @@
 		margin-left: 3px;
 		cursor: pointer;
 	}
+
+	input.captcha{
+		width: 60px;
+		margin-left: 15px;
+		margin-right: 0px;
+	}	
 	
 	p.error	{
 		background: #ffffff url(layout/delete.png) no-repeat;
@@ -116,7 +123,7 @@
 </head>
 <body>
 			<div class="form">
-				<form accept-charset="utf-8" action="form.php?id=880145&mail=send&sec_hash=5f07fdae49b&PHPSESSID=f3c01f73e85c5924f1cf698d6d6d23e4" method="post" style="width: 100%;" novalidate><input type="hidden" name="a6dc402898b07ce23e7426e78980240efb7a6a70" value="6eb52b965510423712ffa75ebe95871db908f9aea6e741e3a917f5e19c3fafbe" /><p class="form">Name:  <br /><input type="text" class="form"  name="name" value="" /></p><p class="form">E-Mail: <span style="font-weight: bolder; color: red;">*</span> <br /><input type="email" class="form"  name="email" value="" /></p><p class="form">Message: <span style="font-weight: bolder; color: red;">*</span> <br /><textarea name="nachricht" rows="9" class="form"></textarea></p>
+				<form accept-charset="utf-8" action="form.php?id=880145&mail=send&sec_hash=5f07fdae49b&PHPSESSID=f3c01f73e85c5924f1cf698d6d6d23e4" method="post" style="width: 100%;" novalidate><input type="hidden" name="a6dc402898b07ce23e7426e78980240efb7a6a70" value="6eb52b965510423712ffa75ebe95871db908f9aea6e741e3a917f5e19c3fafbe" /><p class="form">Name:  <br /><input type="text" class="form"  name="name" value="" /></p><p class="form">E-Mail: <span style="font-weight: bolder; color: red;">*</span> <br /><input type="email" class="form"  name="email" value="" /></p><p class="form">Message: <span style="font-weight: bolder; color: red;">*</span> <br /><textarea name="nachricht" rows="9" class="form"></textarea></p><div class="g-recaptcha" data-sitekey="6LfgNfoSAAAAABItyuRsaNmRFAs4peXVJxT0_Cag"></div>
 				<div id="bottom">
 					<input type="submit" value="Send message!" class="formsubmit" /> 
 					<p class="formklein">All fields marked with <span style="font-weight: bolder; color: red;">*</span> are required.</p>
