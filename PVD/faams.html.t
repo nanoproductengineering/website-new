@@ -9,9 +9,15 @@
 
         performance of surface engineered components by addressing critical issues of coating microstructure and interface integrity. The hybrid FAAMS™ surface engineering system is
 
-        shown schematically in Figure 4. The design of this modular hybrid PVD surface engineering equipment consists of two powerful LAFAD™ plasma sources in combination with
+        shown schematically   <span class="active-word-parent">
+    here.
+    <img class="active-word-child" src="PVD/faams-figure-4.png">
+  </span>. The design of this modular hybrid PVD surface engineering equipment consists of two powerful LAFAD™ plasma sources in combination with
 
-        conventional unbalanced magnetrons (UBM), either planar or rotary, all of which are integrated into one universal coating chamber layout, as illustrated schematically in Figure 4.
+        conventional unbalanced magnetrons (UBM), either planar or rotary, all of which are integrated into one universal coating chamber layout, as illustrated schematically <span class="active-word-parent">
+    here.
+    <img class="active-word-child" src="PVD/faams-figure-4.png">
+  </span>.
 
         This design layout enables the evaporation of different ceramic and metals in a highly ionized vapor plasma immersion environment. FAAMS™ technology is capable of depositing
 
