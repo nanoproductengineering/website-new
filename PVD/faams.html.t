@@ -11,12 +11,12 @@
 
         shown schematically   <span class="active-word-parent">
     here.
-    <img class="active-word-child" src="PVD/faams-figure-4.png">
+    <img class="active-word-child" src="images/faams-figure-4.png">
   </span>. The design of this modular hybrid PVD surface engineering equipment consists of two powerful LAFAD™ plasma sources in combination with
 
         conventional unbalanced magnetrons (UBM), either planar or rotary, all of which are integrated into one universal coating chamber layout, as illustrated schematically <span class="active-word-parent">
     here.
-    <img class="active-word-child" src="PVD/faams-figure-4.png">
+    <img class="active-word-child" src="images/faams-figure-4.png">
   </span>.
 
         This design layout enables the evaporation of different ceramic and metals in a highly ionized vapor plasma immersion environment. FAAMS™ technology is capable of depositing
