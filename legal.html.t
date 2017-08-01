@@ -1,4 +1,5 @@
 <!-- {{templates/header.html}} -->
+<div class="col-sm-12">
 <h2> Legal Disclaimer </h2>
 This website contains general information about legal matters. The information is not advice, and should not be treated as such.
 
@@ -15,4 +16,5 @@ You must not rely on the information on this website as an alternative to legal 
 
 <h3> Liability </h3>
 Nothing in this legal disclaimer will limit any of our liabilities in any way that is not permitted under applicable law, or exclude any of our liabilities that may not be excluded under applicable law.
+</div>
 <!-- {{templates/footer.html}} -->
