@@ -57,7 +57,7 @@
     </div>
     <div class="col-sm-6">
     <img src="images/dcad.jpg">
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -108,7 +108,7 @@
           </div>
           <div class="col-sm-6">
             <img src="PVD/equipment/lafad-sources/LAFAD-500C.png">
-            <!-- <video width="100%" controls> -->
+            <!-- <video width="100%" controls muted> -->
             <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
             <!-- </video>  -->
           </div>
@@ -158,7 +158,7 @@
           </div>
           <div class="col-sm-6">
             <img src="PVD/equipment/lafad-sources/LAFAD-900C.png">
-            <!-- <video width="100%" controls> -->
+            <!-- <video width="100%" controls muted> -->
             <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
             <!-- </video>  -->
           </div>
@@ -208,7 +208,7 @@
           </div>
           <div class="col-sm-6">
             <img src="PVD/equipment/lafad-sources/LAFAD-1300C.png">
-            <!-- <video width="100%" controls> -->
+            <!-- <video width="100%" controls muted> -->
             <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
             <!-- </video>  -->
           </div>
@@ -251,7 +251,7 @@
     </div>
     <div class="col-sm-6">
 <!--      <img src="PVD/equipment/lafad-sources/LAFAD-500C.png">   -->
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
             <video width="100%" controls style="padding-top:77px;"> 
@@ -294,7 +294,7 @@
     </div>
     <div class="col-sm-6">
 <!--      <img src="PVD/equipment/lafad-sources/LAFAD-500C.png">   -->
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -334,7 +334,7 @@
     </div>
     <div class="col-sm-6">
 <!--      <img src="PVD/equipment/lafad-sources/LAFAD-500C.png">   -->
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -408,14 +408,14 @@
       <!-- <video width="100%" controls style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
-            <video width="100%" controls> 
+            <video width="100%" controls muted> 
    <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> 
  </video> 
     </div>
     <div class="col-sm-6">
       <img src="PVD/equipment/lafad-systems/LAFAD-2-500C.png">
       <img src="PVD/equipment/lafad-systems/LAFAD-2-500C(2).png">
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
  
@@ -456,7 +456,7 @@
     </div>
     <div class="col-sm-6">
       <img src="PVD/equipment/lafad-systems/LAFAD-2-900C.png">
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -496,7 +496,7 @@
     </div>
     <div class="col-sm-6">
       <img src="PVD/equipment/lafad-systems/LAFAD-2-1300C.png">   
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -543,7 +543,7 @@
     </div>
     <div class="col-sm-6">
       <!--      <img src="PVD/equipment/lafad-sources/LAFAD-500C.png">   -->
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -589,7 +589,7 @@
     </div>
     <div class="col-sm-6">
       <!--      <img src="PVD/equipment/lafad-sources/LAFAD-500C.png">   -->
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -635,7 +635,7 @@
     </div>
     <div class="col-sm-6">
       <!--      <img src="PVD/equipment/lafad-sources/LAFAD-500C.png">   -->
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -683,7 +683,7 @@
     </div>
     <div class="col-sm-6">
       <img src="PVD/equipment/faams-systems/FAAMS-1-500C-2MS.png">   
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -730,7 +730,7 @@
     </div>
     <div class="col-sm-6">
 <!--      <img src="PVD/equipment/lafad-sources/LAFAD-500C.png">   -->
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -776,7 +776,7 @@
     </div>
     <div class="col-sm-6">
 <!--      <img src="PVD/equipment/lafad-sources/LAFAD-500C.png">   -->
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -822,7 +822,7 @@
     </div>
     <div class="col-sm-6">
 <!--      <img src="PVD/equipment/lafad-sources/LAFAD-500C.png">   -->
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -868,7 +868,7 @@
     </div>
     <div class="col-sm-6">
 <!--      <img src="PVD/equipment/lafad-sources/LAFAD-500C.png">   -->
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -915,7 +915,7 @@
     </div>
     <div class="col-sm-6">
 
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -959,7 +959,7 @@
     <div class="col-sm-6">
       <img src="PVD/equipment/faams-systems/FAAMS-4-1300C-8MS.png">
       <img src="PVD/equipment/faams-systems/FAAMS-2-1300C-4MS.png">   
-      <!-- <video width="100%" controls> -->
+      <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
