@@ -254,7 +254,7 @@
       <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
-            <video width="100%" controls muted style="padding-top:77px;"> 
+            <video width="100%" style="padding-top:77px;" controls muted> 
       <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> 
       </video>  
     </div>
