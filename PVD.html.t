@@ -371,7 +371,10 @@
 
     </div>
     <div class="col-sm-6">
-      <img src="images/lafad-horizontal-batch.png">   
+      <video width="100%" controls muted> 
+        <source src="PVD/horizontal-batch.mp4" type="video/mp4"> 
+      </video>  
+
 <!--      <img src="PVD/equipment/lafad-sources/LAFAD-500C.png">   -->
 
     </div>
