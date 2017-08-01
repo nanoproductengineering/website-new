@@ -530,7 +530,7 @@
             <td> 400 mm </td>
           </tr>
           <tr>
-            <td> 2 rotary magnetrons, 3"dia, height </td>
+            <td> 2 planar-rectangular or rotary-cylindrical magnetrons, 3"dia, height </td>
             <td> 400 mm </td>
           </tr>
           <tr>
@@ -576,7 +576,7 @@
             <td> 400 mm </td>
           </tr>
           <tr>
-            <td> 2 rotary magnetrons, 3"dia, height </td>
+            <td> 2 planar-rectangular or rotary-cylindrical magnetrons, 3"dia, height </td>
             <td> 700 mm </td>
           </tr>
           <tr>
@@ -622,7 +622,7 @@
             <td> 400 mm </td>
           </tr>
           <tr>
-            <td> 2 rotary magnetrons, 3"dia, height </td>
+            <td> 2 planar-rectangular or rotary-cylindrical magnetrons, 3"dia, height </td>
             <td> 1000 mm </td>
           </tr>
           <tr>
