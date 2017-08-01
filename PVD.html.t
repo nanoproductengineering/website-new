@@ -102,7 +102,7 @@
                 </tr>
               </tbody>
             </table>
-            <!-- <video width="100%" controls style="padding-top:77px;"> -->
+            <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
             <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
             <!-- </video>  -->
           </div>
@@ -152,7 +152,7 @@
                 </tr>
               </tbody>
             </table>
-            <!-- <video width="100%" controls style="padding-top:77px;"> -->
+            <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
             <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
             <!-- </video>  -->
           </div>
@@ -202,7 +202,7 @@
                 </tr>
               </tbody>
             </table>
-            <!-- <video width="100%" controls style="padding-top:77px;"> -->
+            <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
             <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
             <!-- </video>  -->
           </div>
@@ -245,7 +245,7 @@
           </tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -254,7 +254,7 @@
       <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
-            <video width="100%" controls style="padding-top:77px;"> 
+            <video width="100%" controls muted style="padding-top:77px;"> 
       <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> 
       </video>  
     </div>
@@ -288,7 +288,7 @@
           </tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -328,7 +328,7 @@
           </tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -405,7 +405,7 @@
           </tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
             <video width="100%" controls muted> 
@@ -450,7 +450,7 @@
           </tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -490,7 +490,7 @@
           </tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -537,7 +537,7 @@
           <tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -583,7 +583,7 @@
           <tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -629,7 +629,7 @@
           <tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -677,7 +677,7 @@
           </tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -724,7 +724,7 @@
           </tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -770,7 +770,7 @@
           </tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -816,7 +816,7 @@
           </tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -862,7 +862,7 @@
           </tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
@@ -909,7 +909,7 @@
           </tr>
         </tbody>
       </table>
-      <!-- <video width="100%" controls style="padding-top:77px;"> -->
+      <!-- <video width="100%" controls muted style="padding-top:77px;"> -->
       <!--   <source src="PVD/equipment/LAFAD-500C.mp4" type="video/mp4"> -->
       <!-- </video>  -->
     </div>
