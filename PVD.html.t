@@ -43,7 +43,7 @@
 
     unidirectional plasma source and two direct cathodic arc sources in one chamber layout. This system has a
 
-    carousel multi-satellites substrate table with coating area 16” dia x 12” tall.
+    carousel multi-satellites substrate table with coating area 16” dia x 12” tall. LAFAD™ unidirectional dual filtered arc source can utilize both billet-style and planar- or rotary-style primary cathode targets.
 
     NPE provides comprehensive source installation and technical support!
   </div>
