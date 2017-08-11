@@ -1,17 +1,8 @@
 <!-- {{templates/header.html}} -->
 
 <div class="col-sm-12">
-  <div class="row">
-    <div class="col-sm-2"></div>
-    <div class="col-sm-7">
-    </div>
-    <div class="col-sm-2"></div>
-  </div>
-  <div class="row" id="box-search">
-  </div>
-  <div class="col-sm-1"></div>
   <div class="col-sm-6">
-    <h1> About us </h1>
+    <h3> About us </h3>
     <p class="text-justify">
       Nano-Product Engineering, LLC is an R&amp;D and transfer/commercialization company specializing in advanced surface engineering techniques to enhance material properties for a wide variety of applications.
       
@@ -35,6 +26,30 @@
       <li> Plasma generators of energetic particles - Proprietary processes covering varied applications from neutron generators to ion lasers.  </li>
     </ul>
   </div>
+
+  <div class="col-sm-6">
+    <h3> Our technology </h3>
+    <a href="PVD/lafad.html">  <h4> Large-Area Filtered Arc Deposition (LAFAD™)  </h4> </a>
+    <p class="text-justify"> NPE's LAFAD™ sources enable deposition rates competitive with direct (non-filtered) sources, while filtering practically all macroparticles and neutral atoms. 
+    </p>
+
+    <a href="PVD/faams.html">  <h4> Filtered Arc-Assisted Magnetron Sputtering (FAAMS™)   </h4> </a>
+    <p class="text-justify"> NPE's FAAMS™ systems combine LAFAD™ sources and magnetrons or electron beam sources in one universal vacuum chamber layout, providing a significant improvement in the performance of surface engineered components by addressing critical issues of coating microstructure and interface integrity.
+    </p>
+
+    <a href="pacvd.html"> <h4> Plasma-Assisted Chemical Vapor Deposition </h4></a>
+    <p class="text-justify"> NPE's PACVD reactors make possible diamond coatings with deposition areas up to several square meters across a wide range of operating pressures, with deposition rates up to 30 µm/hr, as well as ceramic powder reactors, capable of producing product powders with core-shell particles ranging from the nanometer to the millimeter scale.
+    </p>
+
+    <a href="thruster.html"> <h4> Plasma Thrusters </h4></a>
+    <p class="text-justify">
+      NPE has developed a series of models of arcjet thrusters and hybrid multi-stage thrusters combing arcjet stage with Hall thruster and MPD thruster stages.
+    </p>
+
+    <a href="PVD.html"> <h4> Full catalog of products and systems </h4></a>
+  </div>
+
+  
 </div>
 
 
