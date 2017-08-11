@@ -30,25 +30,26 @@
         <figcaption> Diamonds deposited by our process under electron microscope. </figcaption>
       </figure>
     </div>
-  </div>
 
-  <div class="panel-body">
-    <figure>
-      <img src="images/pacvd-powder.png" width="50%">
-      <figcaption> Diagram of a product particle from the ceramic powder reactor. The ceramic core, typically SiC or WC, is surrounded by a diamond shell. </figcaption>
-    </figure>
-  </div>
 
-  <div class="panel-body">
-    <figure>
-      <video width="100%" controls muted> 
+    <div class="panel-body">
+      <figure>
+        <img src="images/pacvd-powder.png" width="50%">
+        <figcaption> Diagram of a product particle from the ceramic powder reactor. The ceramic core, typically SiC or WC, is surrounded by a diamond shell. </figcaption>
+      </figure>
+    </div>
+
+    <div class="panel-body">
+      <figure>
+        <video width="100%" controls muted> 
           <source src="images/FBCVD_demo.mp4" type="video/mp4"> 
-      </video>
-      <figcaption>
-         NPE's has developed two kinds of powder processing reactor a rotary tubular
-         reactor, and a fluidized bed reactor. The video above demonstrates the operation of the fluidized  bed reactor, with the powder cloud suspended in the reactive plasma flow.
-      </figcaption>
-    </figure>
+        </video>
+        <figcaption>
+          NPE has developed two kinds of powder processing reactor a rotary tubular
+          reactor, and a fluidized bed reactor. The video above demonstrates the operation of the fluidized  bed reactor, with the powder cloud suspended in the reactive plasma flow.
+        </figcaption>
+      </figure>
+    </div>
   </div>
 </div>
-<!-- {{templates/footer.html}} -->
+  <!-- {{templates/footer.html}} -->
