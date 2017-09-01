@@ -53,10 +53,10 @@
   <div class="panel-heading">      DCAD-350C</div>
   <div class="panel-body">
     <div class="col-sm-6">
-      Our Direct Cathodic Arc Deposition DCAD-350C source is a tubular source with an ISO-320 exit flange suitable for attachment to vacuum chambers and plasma ducts. It uses a 4" dia x 2" height cone billet target.
+      Our Direct Cathodic Arc Deposition DCAD-350C source is a tubular source with an ISO-250 exit flange suitable for attachment to vacuum chambers and plasma ducts. It uses a 4" dia x 2" height cone billet target.
     </div>
     <div class="col-sm-6">
-    <img src="images/dcad_picture.png">
+    <img src="images/dcad_350.jpg">
       <!-- <video width="100%" controls muted> -->
       <!--   <source src="PVD/equipment/LAFAD-500C-2.mp4" type="video/mp4"> -->
       <!-- </video>  -->
