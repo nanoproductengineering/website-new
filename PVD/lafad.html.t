@@ -51,6 +51,20 @@
           </figcaption>
         </figure>
       </div>
+
+ <div class="panel-body">
+        <figure>
+          <video width="100%" controls muted> 
+            <source src="PVD/LAFAD_with_planar_primary_arc_sources.mp4" type="video/mp4">
+          </video>
+          <figcaption>
+           One side metal vapor plasma jet generating during a LAFAD™ process with planar primary arc sources having cathode targets 20” tall by 4” wide.
+          </figcaption>
+        </figure>
+      </div>
     </div>
 </div>
+    </div>
+
+
     <!-- {{templates/footer.html}} -->

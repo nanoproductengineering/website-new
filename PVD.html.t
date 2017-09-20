@@ -25,7 +25,11 @@
 
       with regular flange and Viton O-ring seal. Source control modules are provided, and can be easily integrated
 
-      into vacuum system controls. <a href="contact.html">Contact us</a> for more information!
+      into vacuum system controls.
+
+</p>
+<p>
+While NPE does not provide coating services or equipment manufacturing directly, clients can use our technology via licensing and technology transfer. If you are a commercial coating services provider or coating equipment manufacturer and are interested in including our PVD and/or PACVD technologies in your offerings, please <a href="contact.html"> contact us</a>  to license the technologies, along with full technical support.  
     </p>
 
     <h3> Installation and integration </h3>
