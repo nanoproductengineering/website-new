@@ -101,7 +101,7 @@ While NPE does not provide coating services or equipment manufacturing directly,
                   <td> 400 mm </td>
                 </tr>
                 <tr>
-                  <td> Deposition area height (with ±10% coating thickness ununiformity)</td>
+                  <td> Deposition area height (with ±10% coating thickness nonuniformity)</td>
                   <td> 600 mm  </td>
                 </tr>
               </tbody>
@@ -151,7 +151,7 @@ While NPE does not provide coating services or equipment manufacturing directly,
                   <td> 400 mm </td>
                 </tr>
                 <tr>
-                  <td> Deposition area height (with ±10% coating thickness ununiformity)</td>
+                  <td> Deposition area height (with ±10% coating thickness nonuniformity)</td>
                   <td> 600 mm  </td>
                 </tr>
               </tbody>
@@ -203,7 +203,7 @@ chamber.
                   <td> 400 mm </td>
                 </tr>
                 <tr>
-                  <td> Deposition area height (with ±10% coating thickness ununiformity)</td>
+                  <td> Deposition area height (with ±10% coating thickness nonuniformity)</td>
                   <td> 600 mm  </td>
                 </tr>
               </tbody>
@@ -254,7 +254,7 @@ chamber.
                   <td> 400 mm </td>
                 </tr>
                 <tr>
-                  <td> Deposition area height (with ±10% coating thickness ununiformity)</td>
+                  <td> Deposition area height (with ±10% coating thickness nonuniformity)</td>
                   <td> 900 mm  </td>
                 </tr>
               </tbody>
@@ -306,7 +306,7 @@ chamber.
                   <td> 400 mm </td>
                 </tr>
                 <tr>
-                  <td> Deposition area height (with ±10% coating thickness ununiformity)</td>
+                  <td> Deposition area height (with ±10% coating thickness nonuniformity)</td>
                   <td> 900 mm  </td>
                 </tr>
               </tbody>
@@ -350,7 +350,7 @@ chamber.
             <td> 600 mm </td>
           </tr>
           <tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 300 mm  </td>
           </tr>
         </tbody>
@@ -393,7 +393,7 @@ chamber.
             <td> 600 mm </td>
           </tr>
           <tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 600 mm  </td>
           </tr>
         </tbody>
@@ -433,7 +433,7 @@ chamber.
             <td> 800 mm </td>
           </tr>
           <tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 900 mm  </td>
           </tr>
         </tbody>
@@ -473,7 +473,7 @@ chamber.
             <td> 800 mm </td>
           </tr>
           <tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 900 mm  </td>
           </tr>
         </tbody>
@@ -513,7 +513,7 @@ chamber.
             <td> 600 mm </td>
           </tr>
           <tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 300 mm  </td>
           </tr>
         </tbody>
@@ -558,7 +558,7 @@ chamber.
             <td> 600 mm </td>
           </tr>
           <tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 600 mm  </td>
           </tr>
         </tbody>
@@ -598,7 +598,7 @@ chamber.
             <td> 800 mm </td>
           </tr>
           <tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 900 mm  </td>
           </tr>
         </tbody>
@@ -640,11 +640,11 @@ chamber.
             <td> 400 mm </td>
           </tr>
           <tr>
-            <td> 2 planar-rectangular or rotary-cylindrical magnetrons, 3"dia, height </td>
+            <td> 2 planar-rectangular or rotary-cylindrical magnetrons, 6"dia, height </td>
             <td> 400 mm </td>
           </tr>
           <tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 300 mm </td>
           </tr>
           <tr>
@@ -690,7 +690,7 @@ chamber.
             <td> 700 mm </td>
           </tr>
           <tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 600 mm </td>
           </tr>
           <tr>
@@ -736,7 +736,7 @@ chamber.
             <td> 1000 mm </td>
           </tr>
           <tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 900 mm </td>
           </tr>
           <tr>
@@ -785,7 +785,7 @@ chamber.
             <td> Rotary magnetrons, 3"dia, height </td>
             <td> 400 mm </td>
           </tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 300 mm  </td>
           </tr>
         </tbody>
@@ -832,7 +832,7 @@ chamber.
             <td> Rotary magnetrons, 3"dia, height </td>
             <td> 700 mm </td>
           </tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 600 mm  </td>
           </tr>
         </tbody>
@@ -878,7 +878,7 @@ chamber.
             <td> Rotary magnetrons, 3"dia, height </td>
             <td> 1000 mm </td>
           </tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 900 mm  </td>
           </tr>
         </tbody>
@@ -924,7 +924,7 @@ chamber.
             <td> Rotary magnetrons, 3"dia, height </td>
             <td> 400 mm </td>
           </tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 300 mm  </td>
           </tr>
         </tbody>
@@ -970,7 +970,7 @@ chamber.
             <td> Rotary magnetrons, 3"dia, height </td>
             <td> 700 mm </td>
           </tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 600 mm  </td>
           </tr>
         </tbody>
@@ -1017,7 +1017,7 @@ chamber.
             <td> Rotary magnetrons, 3"dia, height </td>
             <td> 1000 mm </td>
           </tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 900 mm  </td>
           </tr>
         </tbody>
@@ -1063,7 +1063,7 @@ chamber.
             <td> Rotary magnetrons, 3"dia, height </td>
             <td> 1000 mm </td>
           </tr>
-            <td> Deposition area height (with ±10% coating thickness ununiformity) </td>
+            <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
             <td> 900 mm  </td>
           </tr>
         </tbody>
