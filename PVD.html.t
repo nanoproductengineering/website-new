@@ -1,4 +1,4 @@
-<!-- {{templates/header.html}} -->
+﻿<!-- {{templates/header.html}} -->
 <h2> PVD Sources and Systems </h2>
 <nav class="col-sm-3" id="myScrollspy">
   <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="180">
@@ -778,11 +778,11 @@
               <td> 600 mm </td>
             </tr>
             <tr>
-              <td> Number of rotary magnetrons </td>
+              <td> Number of planar-rectangular or rotary-cylindrical magnetrons </td>
               <td> 2 </td>
             <tr>
             <tr>
-              <td> Rotary magnetrons, 3"dia, height </td>
+              <td> 2 planar-rectangular or rotary-cylindrical magnetrons, 3"width/dia, height </td>
               <td> 400 mm </td>
             </tr>
             <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
@@ -825,11 +825,11 @@
               <td> 600 mm </td>
             </tr>
             <tr>
-              <td> Number of rotary magnetrons </td>
+              <td> Number of planar-rectangular or rotary-cylindrical magnetrons </td>
               <td> 2 </td>
             <tr>
             <tr>
-              <td> Rotary magnetrons, 3"dia, height </td>
+              <td> Planar-rectangular or rotary-cylindrical magnetrons, 3"width/dia, height </td>
               <td> 700 mm </td>
             </tr>
             <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
@@ -871,11 +871,11 @@
               <td> 800 mm </td>
             </tr>
             <tr>
-              <td> Number of rotary magnetrons </td>
+              <td> Number of planar-rectangular or rotary-cylindrical magnetronss </td>
               <td> 2 </td>
             <tr>
             <tr>
-              <td> Rotary magnetrons, 3"dia, height </td>
+              <td> Planar-rectangular or rotary-cylindrical magnetrons, 3"width/dia, height </td>
               <td> 1000 mm </td>
             </tr>
             <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
@@ -917,11 +917,11 @@
               <td> 600 mm </td>
             </tr>
             <tr>
-              <td> Number of rotary magnetrons </td>
+              <td> Number of planar-rectangular or rotary-cylindrical magnetrons </td>
               <td> 4 </td>
             <tr>
             <tr>
-              <td> Rotary magnetrons, 3"dia, height </td>
+              <td> Planar-rectangular or rotary-cylindrical magnetrons, 3"width/dia, height </td>
               <td> 400 mm </td>
             </tr>
             <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
@@ -963,11 +963,11 @@
               <td> 600 mm </td>
             </tr>
             <tr>
-              <td> Number of rotary magnetrons </td>
+              <td> Planar-rectangular or rotary-cylindrical magnetrons </td>
               <td> 4 </td>
             <tr>
             <tr>
-              <td> Rotary magnetrons, 3"dia, height </td>
+              <td> Planar-rectangular or rotary-cylindrical magnetrons, 3"width/dia, height </td>
               <td> 700 mm </td>
             </tr>
             <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
@@ -1010,11 +1010,11 @@
               <td> 800 mm </td>
             </tr>
             <tr>
-              <td> Number of rotary magnetrons </td>
+              <td> Number of planar-rectangular or rotary-cylindrical magnetrons </td>
               <td> 4 </td>
             <tr>
             <tr>
-              <td> Rotary magnetrons, 3"dia, height </td>
+              <td> Planar-rectangular or rotary-cylindrical magnetrons, 3"width/dia, height </td>
               <td> 1000 mm </td>
             </tr>
             <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
@@ -1056,11 +1056,11 @@
               <td> 1000 mm </td>
             </tr>
             <tr>
-              <td> Number of rotary magnetrons </td>
+              <td> Number of planar-rectangular or rotary-cylindrical magnetrons </td>
               <td> 8 </td>
             <tr>
             <tr>
-              <td> Rotary magnetrons, 3"dia, height </td>
+              <td> Planar-rectangular or rotary-cylindrical magnetrons, 3"width/dia, height </td>
               <td> 1000 mm </td>
             </tr>
             <td> Deposition area height (with ±10% coating thickness nonuniformity) </td>
