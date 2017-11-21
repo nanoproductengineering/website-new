@@ -963,7 +963,7 @@
               <td> 600 mm </td>
             </tr>
             <tr>
-              <td> Planar-rectangular or rotary-cylindrical magnetrons </td>
+              <td> Number of planar-rectangular or rotary-cylindrical magnetrons </td>
               <td> 4 </td>
             <tr>
             <tr>
