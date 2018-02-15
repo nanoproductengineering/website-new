@@ -44,6 +44,8 @@
 <li><a href= "papers/LARGE_AREA_FILTERED_ARC_DEPOSITION_OF_CARBON_AND_BORON.pdf"> “LARGE AREA FILTERED ARC DEPOSITION OF CARBON AND BORON BASED HARD COATINGS,” Rabi Bhattaccharia. Final Report Prepared for THE U.S. DEPARTMENT OF ENERGY Contract No. DE-FG02-99ER82911 for For Period September 4, 1999 – September 5, 2003, UES, Inc., Dayton OH. </a></li>
 <li><a href= "papers/22.pdf"> “Large Area Filtered Plasma Deposition Technology and Applications,” V. Gorokhovsky. Presentation to ICMCTF 2007. </a></li>
 <li><a href= "papers/23.pdf"> “Mechanical and tribological properties of nanocomposite TiSiN coatings,” Y.H. Cheng, T. Browne, B. Heckerman, E. Meletis. Surface & Coatings Technology 204 (2010) 2123–2129. </a></li>
+<li><a href= "papers/val1.pdf"> “Modeling of DC Discharges in Argon at Low Pressures,” V. Gorokhovksy. </a></li>
+<li><a href= "papers/val2.pdf"> “Modeling of large area low-pressure DC glow discharge: drift-diffusion vs. PIC-MIC,” V. Gorokhovsky, T.Jenkins, J.McGugan, A.Obrusnik, S.Robertson, P.Stoltz. </a></li>
 <li><a href= "papers/24.pdf"> “Multiphase Nano-Composite Coatings for Achieving Energy Optimization,” J. Nainaparampil. Technical report. </a></li>
 <li><a href= "papers/Oct20.pdf"> “Nano-Composite Coatings for F-35 LiftFan Gears.” </a></li>
 <li><a href= "papers/26.pdf"> “Nanocomposite Tribological Corrosion Resistant Coating for Robust Bearings and Gears,” V. Gorokhovsky, C. Bowman. Phase II SBIR Final Report, February, 2009. </a></li>
@@ -62,6 +64,7 @@
 <li><a href= "papers/Tribo_paper_part_II_SCT_V201-14_April-2007.pdf"> “Tribological Performance of Hybrid Filtered Arc-Magnetron Coatings, Part II,” Vladimir Gorokhovsky, Chris Bowman, Paul Gannon, Dave VanVorous, Andrey Voevodin, A. Rutkowski. Surface and Coatings Technology, Number 201, 2007. </a></li>
 <li><a href= "papers/CrAlN_multilayers_ASM03_JMEP_preprint.pdf"> “Using CrAlN multilayer coatings to improve oxidation resistance of steel interconnects for solid oxide fuel cells,” R.J. Smith, C. Tripp, A. Knospe, C.V. Ramana, A. Kayani, Vladimir Gorokhovsky, V. Shutthanandan, D.S.Gelles.  Journal of Materials Engineering and Performance 13(3) (2004) 295-302. </a></li>
 <li><a href= "papers/4.pdf"> “Vacuum Metal Web Coating with Cermets,” V. Gorokhovsky. Proceedings of the Fourth International Conference on Vacuum Web Coating; Reno, Nevada, 1990. </a></li>
+<li><a href= "papers/val3.pdf"> “Variational Theory of Curvilinear Electric Arc,” V. Gorokhovsky. </a></li>
 <li><a href= "papers/37.pdf"> “Optimization of Ion Beam Sputtering Thin Film Deposition Process,” V.I.Gorokhovsky, A.V.Kosogorov. Vacuum Science and Technology, Vol.1, No.2, (1991), 13-16. </a></li>
 </ul>
 
