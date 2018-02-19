@@ -1,5 +1,5 @@
 <!-- {{templates/header.html}} -->
-<h2> NPE Patents </h2>
+
 
 <ul>
   <li> <a href="patents/USPat5435900.pdf">“Vacuum-Arc Plasma Source” US Pat No. 5435900.</a> </li>

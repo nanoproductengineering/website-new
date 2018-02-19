@@ -1,5 +1,5 @@
 <!-- {{templates/header.html}} -->
-<h2> NPE Papers </h2>
+
 <ul>
 <li><a href= "papers/36.pdf"> “AN INDUCTION METHOD OF DETERMINING CONDUCTION-ZONE SIZE IN A VACUUM ARC,” V. Gorokhovsky et. al.  </a></li>
 <li><a href= "papers/1.pdf"> “Advanced Thermal Barrier Coating,” R. Battacharya. SBIR Phase I Report.</a></li>
