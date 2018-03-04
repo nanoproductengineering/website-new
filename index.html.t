@@ -49,6 +49,16 @@
     <a href="PVD.html"> <h4> Full catalog of products and systems </h4></a>
   </div>
 
+  <div class="col-sm-6">
+    <h3> Our services </h3>
+    <p> In addition to technology transfer and manufacturing capabilities, NPE offers consulting and engineering support for the development, evaluation, and testing of 
+    <ul>
+      <li> PVD and PACVD surface engineering equipment and processes </li>
+      <li> Coatings, surface treatments, and material syntheses </li>
+      <li> Novel surface engineering solutions for various applications </li>
+    </ul>
+  </div>
+
   
 </div>
 
