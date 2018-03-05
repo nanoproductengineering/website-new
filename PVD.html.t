@@ -56,15 +56,15 @@
 
   <h3 id="dcad-sources"> The DCAD Source </h3>
   <div class="panel panel-default">
-    <div class="panel-heading">      DCAD-350C</div>
+    <div class="panel-heading">      DCAD-250C</div>
     <div class="panel-body">
       <div class="col-sm-6">
-        Our Direct Cathodic Arc Deposition DCAD-350C source is a tubular source with an ISO-250 exit flange suitable for attachment to vacuum chambers and plasma ducts. It uses a 4" dia x 2" height frustoconical billet target.
+        Our Direct Cathodic Arc Deposition DCAD-250C source is a tubular source with an ISO-250 exit flange suitable for attachment to vacuum chambers and plasma ducts. It uses a 4" dia x 2" height frustoconical billet target.
       </div>
       <div class="col-sm-6">
         <img src="images/dcad_350.jpg">
         <video width="100%" controls muted> 
-          <source src="PVD/DCAD-350C.mp4" type="video/mp4"> 
+          <source src="PVD/DCAD-250C.mp4" type="video/mp4"> 
         </video> 
       </div>
     </div>
@@ -79,7 +79,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-sm-12" style="padding-bottom:10px;">
-            This source utilizes 2 primary cone style DCAD-350C direct cathodic arc sources attached on opposite sides of the rectangular plasma duct chamber.
+            This source utilizes 2 primary cone style DCAD-250C direct cathodic arc sources attached on opposite sides of the rectangular plasma duct chamber.
           </div>
         </div>
         <div class="row">
@@ -129,7 +129,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-sm-12" style="padding-bottom:10px;">
-            This source utilizes 4 primary cone style DCAD-350C direct cathodic arc sources: two attached on each side of the rectangular plasma duct chamber.
+            This source utilizes 4 primary cone style DCAD-250C direct cathodic arc sources: two attached on each side of the rectangular plasma duct chamber.
           </div>
         </div>
         <div class="row">
@@ -232,7 +232,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-sm-12" style="padding-bottom:10px;">
-            This source utilizes 6 primary cone style DCAD-350C direct cathodic arc sources: three attached on each side of the rectangular plasma duct chamber.
+            This source utilizes 6 primary cone style DCAD-250C direct cathodic arc sources: three attached on each side of the rectangular plasma duct chamber.
           </div>
         </div>
         <div class="row">
