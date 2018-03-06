@@ -64,7 +64,7 @@
       <div class="col-sm-6">
         <img src="images/dcad_350.jpg">
         <video width="100%" controls muted> 
-          <source src="PVD/DCAD-250C.mp4" type="video/mp4"> 
+          <source src="PVD/DCAD-350C.mp4" type="video/mp4"> 
         </video> 
       </div>
     </div>
