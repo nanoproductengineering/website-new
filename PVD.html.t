@@ -31,7 +31,7 @@
 
     </p>
     <p>
-      While NPE does not provide coating services or equipment manufacturing directly, clients can use our technology via licensing and technology transfer. If you are a commercial coating services provider or coating equipment manufacturer and are interested in including our PVD and/or PACVD technologies in your offerings, please <a href="contact.html"> contact us</a>  to license the technologies, along with full technical support.  
+      While NPE does not provide coating services or equipment manufacturing directly, clients can use our technology via licensing and technology transfer as well as ordering equipment and surface engineering services from NPE's partners with full NPE technical support. If you are a commercial coating services provider or coating equipment manufacturer and are interested in including our PVD and/or PACVD technologies in your offerings, please <a href="contact.html"> contact us</a>  to license the technologies, along with full technical support.  
     </p>
 
     <h3> Installation and integration </h3>
@@ -92,7 +92,7 @@
                 </tr>
                 <tr>
                   <td> DCAD source assembly height </td>
-                  <td> 350 mm (the exit flange diameter of a single DCAD-350-C source) </td>
+                  <td> 350 mm (the exit flange diameter of a single DCAD-250-C source) </td>
                 </tr>
                 <tr>
                   <td> Plasma duct chamber height</td>
