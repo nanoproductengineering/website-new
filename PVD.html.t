@@ -13,7 +13,7 @@
 <div class="col-sm-9">
   <h3> Download our PVD <a href="brochure.pdf"> brochure</a>!</h3>
   <h3> <a href="equipment_doc.pdf"> PVD Equipment Specification</a></h3>
-  <h3> <a href="questionaire.docx"> RFQ Questionnaire </a></h3>
+  <h3> <a href="questionnaire.docx"> RFQ Questionnaire </a></h3>
   <div class="well">
     <h3 id="introduction"> About our sources </h3>
     <p>
