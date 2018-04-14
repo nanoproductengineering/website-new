@@ -28,7 +28,7 @@
   </div>
 
   <div class="col-sm-6">
-    <h3> Our technology (<a href="new_brochure.pdf">flyer</a>)</h3>
+    <h3> Our technology (<a href="new_brochure.pdf">flier</a>)</h3>
     <a href="PVD/lafad.html">  <h4> Large-Area Filtered Arc Deposition (LAFAD™)  </h4> </a>
     <p class="text-justify"> NPE's LAFAD™ sources enable deposition rates competitive with direct (non-filtered) sources, while filtering practically all macroparticles and neutral atoms. 
     </p>
