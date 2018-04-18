@@ -47,6 +47,7 @@
     </p>
 
     <a href="PVD.html"> <h4> Full catalog of products and systems </h4></a>
+    <a href="letter.pdf"> <h4> Letter to licensees and investors </h4></a>
   </div>
 
   <div class="col-sm-6">
