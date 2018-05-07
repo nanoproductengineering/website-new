@@ -216,9 +216,14 @@
           </div>
           <div class="col-sm-6">
             <img src="images/lafad-900R.png">
-            <video width="100%" controls muted> 
-              <source src="may5.mp4" type="video/mp4"> 
-            </video>  
+            <figure>
+              <video width="100%" controls muted> 
+                <source src="may5.mp4" type="video/mp4"> 
+              </video>
+              <figcaption>
+                Primary unfiltered cathodic arc on planar graphite cathode target (20 by 6 inches).
+              </figcaption>
+            </figure>
           </div>
         </div>
       </div>
