@@ -104,7 +104,7 @@
                 </tr>
                 <tr>
                   <td> Deposition area height (with ±10% coating thickness nonuniformity)</td>
-                  <td> 600 mm  </td>
+                  <td> 300 mm  </td>
                 </tr>
               </tbody>
             </table>
