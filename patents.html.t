@@ -16,8 +16,9 @@
   <li><a href="patents/USpat8658010.pdf"> “Filtered Cathodic Arc Deposition Method and Apparatus” US Pat No. 8658010. </a></li>
   <li><a href="patents/USpat9257263.pdf"> “Rectangular Filtered Vapor Plasma Source and Method of Controlling Vapor Plasma Flow” US Pat No. 9257263.</a></li>
   <li><a href="patents/USpat9482105.pdf"> “Erosion and Corrosion Resistant Protective Coating for Turbomachinery Method of Making the same and Applications Thereof” US Pat No. 9482105. </a></li>
-  <li><a href="patents/USpat9761424.pdf">"Filtered Cathodic Arc Method, Apparatus and Applications Thereof" US Pat No. 9761424.</a></li>
+  <li><a href="patents/USpat9761424.pdf"> “Filtered Cathodic Arc Method, Apparatus and Applications Thereof” US Pat No. 9761424.</a></li>
   <li><a href="patents/USpat9765635.pdf"> “Erosion and Corrosion Resistant Protective Coating for Turbomachinery Method of Making the same and Applications Thereof” US Pat. No. 9765635. </a></li>
+  <li><a href="patents/patents/pat20180240656.pdf"> “Hybrid Filtered Arc-Magnetron Deposition Method, Apparatus and Applications Thereof” </a></li>
 </ul>
 
 <!-- {{templates/footer.html}} -->
